@@ -1,2 +1,3 @@
 # intro-to-jupyter
- an in-class introduction to Jupyter notebooks
+
+an _in-class introduction_ to **Jupyter notebooks** for the [Lede Program 2022](https://ledeprogram.com/)
